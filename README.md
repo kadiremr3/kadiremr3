@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kadir Emre
 - 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning SwiftUI
 - 📫 You can reach me on Twitter: [@kadiremreios](https://twitter.com/kadiremreios) LinkedIn: [https://www.linkedin.com/in/kadir-emre-yildirim-32a182b3/](https://www.linkedin.com/in/kadiremreyildirim/)
 
 <!---
